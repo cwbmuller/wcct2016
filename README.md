@@ -3,7 +3,7 @@ WordCamp CT 2016: Taking WordPress to the App Store
 
 ## Things to do before the Workshop
 
-1. Download this repository .zip and extract to a local to be accessed in workshop
+1. Clone/Download this repository to be accessed on local in workshop
 2. Create a clean local WordPress installation [(you can use Desktop Server)](https://serverpress.com/get-desktopserver/)
   * Create at least 3 dummy posts with Title, Excerpt, Content, Featured Image.
   * Install [AppPresser Plugin](https://wordpress.org/plugins/apppresser/) (optional to save time) 
